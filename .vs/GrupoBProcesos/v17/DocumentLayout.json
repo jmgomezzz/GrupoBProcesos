@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David\\GrupoBProcesos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|c:\\users\\david\\grupobprocesos\\assets\\scripts\\test\\open_door1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\open_door1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|c:\\users\\david\\grupobprocesos\\assets\\scripts\\test\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|c:\\users\\david\\grupobprocesos\\assets\\scripts\\test\\itemlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\itemlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|c:\\users\\david\\grupobprocesos\\assets\\scripts\\test\\key_logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\key_logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Open_Door1.cs",
+              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\Open_Door1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\Open_Door1.cs",
+              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\Open_Door1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test\\Open_Door1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:57:25.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Key_Logic.cs",
+              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\Key_Logic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\Key_Logic.cs",
+              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\Key_Logic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test\\Key_Logic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:57:23.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemLogic.cs",
+              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\ItemLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\ItemLogic.cs",
+              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\ItemLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test\\ItemLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:57:17.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\Inventory.cs",
+              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:54:23.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
