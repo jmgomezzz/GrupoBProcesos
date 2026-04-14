@@ -3,9 +3,15 @@ using UnityEngine;
 
 public class ItemLogic : MonoBehaviour
 {
+     [Header("Item Properties")]
+    public string itemName;                    // Nombre del item
+    public bool isCombinable = false;          // Si el item se puede combinar
+    public string combinationKey = "";         // Clave única para combinaciones
+    
     public Inventory PlayerInv;
     public void OnTriggerEnter2D(Collider2D collision)
     {
+        
         if (collision.CompareTag("Player"))
         {
             Debug.Log("Truly incredible");
