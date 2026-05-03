@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\David\\GrupoBProcesos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|c:\\users\\david\\grupobprocesos\\assets\\scripts\\test\\open_door1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\open_door1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|c:\\users\\david\\grupobprocesos\\assets\\scripts\\game_scripts\\mouse_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\mouse_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|c:\\users\\david\\grupobprocesos\\assets\\scripts\\test\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|C:\\Users\\David\\GrupoBProcesos\\assets\\scripts\\game_scripts\\transitionpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\transitionpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|c:\\users\\david\\grupobprocesos\\assets\\scripts\\test\\itemlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\itemlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|C:\\Users\\David\\GrupoBProcesos\\assets\\scripts\\game_scripts\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|c:\\users\\david\\grupobprocesos\\assets\\scripts\\test\\key_logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\key_logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|C:\\Users\\David\\GrupoBProcesos\\assets\\scripts\\game_scripts\\open_door1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\open_door1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|c:\\users\\david\\grupobprocesos\\assets\\scripts\\game_scripts\\key_logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\key_logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Open_Door1.cs",
-              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\Open_Door1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\Open_Door1.cs",
-              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\Open_Door1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Test\\Open_Door1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwEwAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Key_Logic.cs",
+              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Key_Logic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Scripts\\Key_Logic.cs",
+              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Key_Logic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game_Scripts\\Key_Logic.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T09:57:25.777Z",
+              "WhenOpened": "2026-05-03T15:28:23.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Key_Logic.cs",
-              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\Key_Logic.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\Key_Logic.cs",
-              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\Key_Logic.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Test\\Key_Logic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Title": "Open_Door1.cs",
+              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Open_Door1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Scripts\\Open_Door1.cs",
+              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Open_Door1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game_Scripts\\Open_Door1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T09:57:23.289Z",
+              "WhenOpened": "2026-05-01T16:34:17.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ItemLogic.cs",
-              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\ItemLogic.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\ItemLogic.cs",
-              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\ItemLogic.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Test\\ItemLogic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Title": "GameplayManager.cs",
+              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\GameplayManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Scripts\\GameplayManager.cs",
+              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\GameplayManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game_Scripts\\GameplayManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T09:57:17.029Z",
+              "WhenOpened": "2026-05-01T17:03:52.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mouse_movement.cs",
+              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Mouse_movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Scripts\\Mouse_movement.cs",
+              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Mouse_movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game_Scripts\\Mouse_movement.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T15:49:58.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\Inventory.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\Inventory.cs",
-              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Test\\Inventory.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Test\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Title": "transitionPoint.cs",
+              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\transitionPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Scripts\\transitionPoint.cs",
+              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\transitionPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game_Scripts\\transitionPoint.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T09:54:23.928Z",
+              "WhenOpened": "2026-05-01T15:12:42.258Z",
               "EditorCaption": ""
             }
           ]

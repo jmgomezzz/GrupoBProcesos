@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 88a03d1ecbfbc9142a4b4099b5768da4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7049103514410413297
+    second: personajes_0
+  - first:
+      213: 546624286021485963
+    second: personajes_1
+  - first:
+      213: 921939107963088460
+    second: personajes_2
+  - first:
+      213: -1247894018666553155
+    second: personajes_3
+  - first:
+      213: -3447738649475369362
+    second: personajes_4
+  - first:
+      213: -2379475321107421134
+    second: personajes_5
+  - first:
+      213: -503901180175678524
+    second: personajes_6
+  - first:
+      213: 8946705397102689618
+    second: personajes_7
+  - first:
+      213: -5505311032467051082
+    second: personajes_8
+  - first:
+      213: -8979315964800192852
+    second: personajes_9
+  - first:
+      213: -5215995643184021239
+    second: personajes_10
+  - first:
+      213: 2615503336063654503
+    second: personajes_11
+  - first:
+      213: -7974172980471477819
+    second: personajes_12
+  - first:
+      213: 210158189145251922
+    second: personajes_13
+  - first:
+      213: -8990989454564422459
+    second: personajes_14
+  - first:
+      213: 8079856693515468748
+    second: personajes_15
+  - first:
+      213: -8820611735057872096
+    second: personajes_16
+  - first:
+      213: 2764354254071858868
+    second: personajes_17
+  - first:
+      213: -3157774789737742378
+    second: personajes_18
+  - first:
+      213: 3555269399485174924
+    second: personajes_19
+  - first:
+      213: -4986457712948966068
+    second: personajes_20
+  - first:
+      213: -4525348155893145611
+    second: personajes_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personajes_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 347
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f031c9e83bd8c2e90800000000000000
+      internalID: -7049103514410413297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 347
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8589e954eff59700800000000000000
+      internalID: 546624286021485963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 347
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e2eaaebb26bcc00800000000000000
+      internalID: 921939107963088460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 347
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0ab0c60079eaee0800000000000000
+      internalID: -1247894018666553155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 291
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66b2a717fb2720d0800000000000000
+      internalID: -3447738649475369362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 289
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238659d6dc76afed0800000000000000
+      internalID: -2379475321107421134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 289
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c38ab1eb88c109f0800000000000000
+      internalID: -503901180175678524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 289
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d30603825192c70800000000000000
+      internalID: 8946705397102689618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 289
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd23cbc8c43993b0800000000000000
+      internalID: -5505311032467051082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 291
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae271854bf036380800000000000000
+      internalID: -8979315964800192852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 291
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901080a199f0d97b0800000000000000
+      internalID: -5215995643184021239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 231
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a5ce63d622c4420800000000000000
+      internalID: 2615503336063654503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 231
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9ca795ceb065190800000000000000
+      internalID: -7974172980471477819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 231
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25064a272c1aae200800000000000000
+      internalID: 210158189145251922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 231
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc87653ab6993380800000000000000
+      internalID: -8990989454564422459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 271
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf3d059ada612070800000000000000
+      internalID: 8079856693515468748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 235
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bcb3e4c54e69580800000000000000
+      internalID: -8820611735057872096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_17
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 235
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b60b434c85fc5620800000000000000
+      internalID: 2764354254071858868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 171
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df7ff03f845d24d0800000000000000
+      internalID: -3157774789737742378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 171
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c845125aeaad65130800000000000000
+      internalID: 3555269399485174924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 171
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d8b24212b8ccab0800000000000000
+      internalID: -4986457712948966068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajes_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 171
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff150b14dbb231c0800000000000000
+      internalID: -4525348155893145611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      personajes_0: -7049103514410413297
+      personajes_1: 546624286021485963
+      personajes_10: -5215995643184021239
+      personajes_11: 2615503336063654503
+      personajes_12: -7974172980471477819
+      personajes_13: 210158189145251922
+      personajes_14: -8990989454564422459
+      personajes_15: 8079856693515468748
+      personajes_16: -8820611735057872096
+      personajes_17: 2764354254071858868
+      personajes_18: -3157774789737742378
+      personajes_19: 3555269399485174924
+      personajes_2: 921939107963088460
+      personajes_20: -4986457712948966068
+      personajes_21: -4525348155893145611
+      personajes_3: -1247894018666553155
+      personajes_4: -3447738649475369362
+      personajes_5: -2379475321107421134
+      personajes_6: -503901180175678524
+      personajes_7: 8946705397102689618
+      personajes_8: -5505311032467051082
+      personajes_9: -8979315964800192852
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
