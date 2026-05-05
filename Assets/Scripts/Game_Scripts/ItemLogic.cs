@@ -7,13 +7,15 @@ public class ItemLogic : MonoBehaviour
     public string itemName;                    // Nombre del item
     public bool isCombinable = false;          // Si el item se puede combinar
     public string combinationKey = "";         // Clave única para combinaciones
+    [SerializeField] public int tabletCode;
     
-    public Inventory PlayerInv;
+    [SerializeField] private Inventory PlayerInv;
     public void OnTriggerEnter2D(Collider2D collision)
     {
         
         if (collision.CompareTag("Player"))
         {
+            PlayerInv = collision.gameObject.GetComponent<Inventory>();
             Debug.Log("Truly incredible");
 
             PlayerInv.AddItem(this.GetComponent<ItemLogic>());

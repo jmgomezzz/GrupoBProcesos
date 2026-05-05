@@ -3,23 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\David\\GrupoBProcesos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|c:\\users\\david\\grupobprocesos\\assets\\scripts\\game_scripts\\mouse_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\mouse_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|c:\\users\\david\\grupobprocesos\\assets\\scripts\\game_scripts\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|C:\\Users\\David\\GrupoBProcesos\\assets\\scripts\\game_scripts\\transitionpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\transitionpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|C:\\Users\\David\\GrupoBProcesos\\assets\\scripts\\game_scripts\\itemlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\itemlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|C:\\Users\\David\\GrupoBProcesos\\assets\\scripts\\game_scripts\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|C:\\Users\\David\\GrupoBProcesos\\assets\\scripts\\game_scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|C:\\Users\\David\\GrupoBProcesos\\assets\\scripts\\game_scripts\\gotooverworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\gotooverworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|C:\\Users\\David\\GrupoBProcesos\\assets\\scripts\\game_scripts\\transitionpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\transitionpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|C:\\Users\\David\\GrupoBProcesos\\assets\\scripts\\game_scripts\\mouse_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\mouse_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|C:\\Users\\David\\GrupoBProcesos\\assets\\scripts\\game_scripts\\open_door1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\open_door1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|c:\\users\\david\\grupobprocesos\\assets\\scripts\\game_scripts\\key_logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|C:\\Users\\David\\GrupoBProcesos\\assets\\scripts\\game_scripts\\key_logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEB778A4-38B4-9103-2152-9B3D9094C916}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game_scripts\\key_logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,24 +46,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Key_Logic.cs",
-              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Key_Logic.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Scripts\\Key_Logic.cs",
-              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Key_Logic.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Game_Scripts\\Key_Logic.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ItemLogic.cs",
+              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\ItemLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Scripts\\ItemLogic.cs",
+              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\ItemLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game_Scripts\\ItemLogic.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T15:28:23.24Z",
+              "WhenOpened": "2026-05-04T20:25:39.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Scripts\\Inventory.cs",
+              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game_Scripts\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T20:21:59.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StateManager.cs",
+              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\StateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Scripts\\StateManager.cs",
+              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\StateManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game_Scripts\\StateManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T20:11:54.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoToOverworld.cs",
+              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\GoToOverworld.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Scripts\\GoToOverworld.cs",
+              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\GoToOverworld.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game_Scripts\\GoToOverworld.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:43:25.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Open_Door1.cs",
               "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Open_Door1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Scripts\\Open_Door1.cs",
@@ -55,8 +109,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Game_Scripts\\Open_Door1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T16:34:17.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T16:34:17.19Z"
             },
             {
               "$type": "Document",
@@ -73,29 +126,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Mouse_movement.cs",
               "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Mouse_movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Scripts\\Mouse_movement.cs",
               "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Mouse_movement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Game_Scripts\\Mouse_movement.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T15:49:58.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T15:49:58.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "transitionPoint.cs",
               "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\transitionPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Scripts\\transitionPoint.cs",
               "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\transitionPoint.cs",
               "RelativeToolTip": "Assets\\Scripts\\Game_Scripts\\transitionPoint.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-01T15:12:42.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-01T15:12:42.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Key_Logic.cs",
+              "DocumentMoniker": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Key_Logic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game_Scripts\\Key_Logic.cs",
+              "ToolTip": "C:\\Users\\David\\GrupoBProcesos\\Assets\\Scripts\\Game_Scripts\\Key_Logic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game_Scripts\\Key_Logic.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:28:23.24Z"
             }
           ]
         }

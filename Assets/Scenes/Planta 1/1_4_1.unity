@@ -710,6 +710,67 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1001 &687526047
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2340900948831900850, guid: bd18d7045060ef040ba71e5882d2c780, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2340900948831900850, guid: bd18d7045060ef040ba71e5882d2c780, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2340900948831900850, guid: bd18d7045060ef040ba71e5882d2c780, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2340900948831900850, guid: bd18d7045060ef040ba71e5882d2c780, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2340900948831900850, guid: bd18d7045060ef040ba71e5882d2c780, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2340900948831900850, guid: bd18d7045060ef040ba71e5882d2c780, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2340900948831900850, guid: bd18d7045060ef040ba71e5882d2c780, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2340900948831900850, guid: bd18d7045060ef040ba71e5882d2c780, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2340900948831900850, guid: bd18d7045060ef040ba71e5882d2c780, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2340900948831900850, guid: bd18d7045060ef040ba71e5882d2c780, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3253719134148600079, guid: bd18d7045060ef040ba71e5882d2c780, type: 3}
+      propertyPath: m_Name
+      value: Tablilla
+      objectReference: {fileID: 0}
+    - target: {fileID: 4086450489002384177, guid: bd18d7045060ef040ba71e5882d2c780, type: 3}
+      propertyPath: tabletCode
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd18d7045060ef040ba71e5882d2c780, type: 3}
 --- !u!1 &785238519
 GameObject:
   m_ObjectHideFlags: 0
@@ -995,8 +1056,8 @@ Tilemap:
   - first: {x: -1, y: -1, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 3
-      m_TileSpriteIndex: 1
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1070,17 +1131,21 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 8d66c1968d063a343942d2a27be54720, type: 2}
   - m_RefCount: 3
     m_Data: {fileID: 11400000, guid: c6187672e923793499c22b4064818e76, type: 2}
-  - m_RefCount: 2
+  - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 1d51b14bd0e00624d9fb809f683aed2c, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: 29aa517ee49bb2d41bbff34b14dac089, type: 2}
   m_TileSpriteArray:
   - m_RefCount: 2
     m_Data: {fileID: -4672163745296329812, guid: 915493f80935b614b8adf1a0ba8762b8, type: 3}
-  - m_RefCount: 2
+  - m_RefCount: 1
     m_Data: {fileID: 4798128000316562087, guid: 915493f80935b614b8adf1a0ba8762b8, type: 3}
   - m_RefCount: 5
     m_Data: {fileID: 4239528737361974724, guid: 915493f80935b614b8adf1a0ba8762b8, type: 3}
   - m_RefCount: 3
     m_Data: {fileID: 2157240733274199957, guid: 915493f80935b614b8adf1a0ba8762b8, type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 5560954434011818755, guid: bdd5a9cfefec67b47a56d4f2d507baec, type: 3}
   m_TileMatrixArray:
   - m_RefCount: 12
     m_Data:
@@ -1428,3 +1493,4 @@ SceneRoots:
   - {fileID: 210387334}
   - {fileID: 785238520}
   - {fileID: 1559485953}
+  - {fileID: 687526047}

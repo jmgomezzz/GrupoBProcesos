@@ -3,6 +3,7 @@ using UnityEngine;
 public class Inventory : MonoBehaviour
 {
     public ItemLogic[] inventory;
+    public StateManager stateManager;
 
     public void AddItem(ItemLogic item)
     {
@@ -10,11 +11,28 @@ public class Inventory : MonoBehaviour
         {
             if (inventory[i] == null)
             {
-                inventory[i] = item;
-                Debug.Log("The thing happened");
-                break;
+                if (item.tabletCode != 0)
+                {
+                    if (!stateManager.checkIfPlateDiscovered(item.tabletCode))
+                    {
+                        inventory[i] = item;
+                        Debug.Log("The thing happened but with style");
+                        break;
+                    }
+                    else
+                    {
+                        Debug.Log("La tableta ya fue descubierta, por lo que no se añadio");
+                    }
+                }
+                else if(item.tabletCode == 0)
+                {
+                    inventory[i] = item;
+                    Debug.Log("The thing happened");
+                    break;
+                }
+                
             }
-        }
+        } 
     }
         public ItemLogic CombineItems(int index1, int index2)
     {
